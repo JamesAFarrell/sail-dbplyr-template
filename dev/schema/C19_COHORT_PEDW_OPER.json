@@ -1,0 +1,13 @@
+{
+    "PROV_UNIT_CD": "character",
+    "SPELL_NUM_E": "bigint",
+    "EPI_NUM": "character",
+    "OPER_NUM": "integer",
+    "OPER_CD_123": "character",
+    "OPER_CD_4": "character",
+    "OPER_YR": "character",
+    "OPER_MTH": "character",
+    "OPER_DT": "date",
+    "OPER_CD": "character",
+    "AVAIL_FROM_DT": "date"
+}

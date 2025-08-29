@@ -1,0 +1,12 @@
+{
+    "PROV_UNIT_CD": "character",
+    "SPELL_NUM_E": "bigint",
+    "EPI_NUM": "character",
+    "DIAG_NUM": "integer",
+    "DIAG_CD_123": "character",
+    "DIAG_CD_4": "character",
+    "DIAG_CD_56": "character",
+    "DIAG_CD_1234": "character",
+    "DIAG_CD": "character",
+    "AVAIL_FROM_DT": "date"
+}

@@ -1,0 +1,8 @@
+{
+    "PERSON_SPELL_NUM_E": "bigint",
+    "PROVIDER_SPELL_NUM_E": "bigint",
+    "SPELL_NUM_E": "bigint",
+    "EPI_NUM": "character",
+    "PROV_UNIT_CD": "character",
+    "AVAIL_FROM_DT": "date"
+}

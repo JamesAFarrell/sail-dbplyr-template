@@ -1,0 +1,23 @@
+{
+    "ALF_E": "bigint",
+    "ALF_STS_CD": "character",
+    "ALF_MTCH_PCT": "numeric",
+    "GNDR_CD": "character",
+    "WOB": "date",
+    "LSOA_CD": "character",
+    "REG_CAT_CD": "character",
+    "PRAC_CD_E": "bigint",
+    "LOCAL_NUM_E": "bigint",
+    "EVENT_CD_VRS": "character",
+    "EVENT_CD": "character",
+    "EVENT_VAL": "numeric",
+    "EVENT_DT": "date",
+    "EPISODE": "character",
+    "SEQUENCE": "integer",
+    "DELTA_KEY": "character",
+    "BATCH_NUM": "integer",
+    "EVENT_YR": "integer",
+    "CREATE_DT": "date",
+    "AVAIL_FROM_DT": "date",
+    "SOURCE_EXTRACT": "character"
+}
