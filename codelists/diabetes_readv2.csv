@@ -1,0 +1,136 @@
+code,description
+C108011,Type I diabetes mellitus with renal complications
+C108012,Type 1 diabetes mellitus with renal complications
+C108.12,Type 1 diabetes mellitus
+C108.13,Type I diabetes mellitus
+C108211,Type I diabetes mellitus with neurological complications
+C108212,Type 1 diabetes mellitus with neurological complications
+C108411,Unstable type I diabetes mellitus
+C108412,Unstable type 1 diabetes mellitus
+C108511,Type I diabetes mellitus with ulcer
+C108512,Type 1 diabetes mellitus with ulcer
+C108711,Type I diabetes mellitus with retinopathy
+C108712,Type 1 diabetes mellitus with retinopathy
+C108811,Type I diabetes mellitus - poor control
+C108812,Type 1 diabetes mellitus - poor control
+C108911,Type I diabetes mellitus maturity onset
+C108912,Type 1 diabetes mellitus maturity onset
+C108A11,Type I diabetes mellitus without complication
+C108D11,Type I diabetes mellitus with nephropathy
+C108E11,Type I diabetes mellitus with hypoglycaemic coma
+C108E12,Type 1 diabetes mellitus with hypoglycaemic coma
+C108F11,Type I diabetes mellitus with diabetic cataract
+C108H11,Type I diabetes mellitus with arthropathy
+C108J11,Type I diabetes mellitus with neuropathic arthropathy
+C108J12,Type 1 diabetes mellitus with neuropathic arthropathy
+C109011,Type II diabetes mellitus with renal complications
+C109012,Type 2 diabetes mellitus with renal complications
+C109111,Type II diabetes mellitus with ophthalmic complications
+C109112,Type 2 diabetes mellitus with ophthalmic complications
+C109.12,Type 2 diabetes mellitus
+C109.13,Type II diabetes mellitus
+C109211,Type II diabetes mellitus with neurological complications
+C109212,Type 2 diabetes mellitus with neurological complications
+C109411,Type II diabetes mellitus with ulcer
+C109412,Type 2 diabetes mellitus with ulcer
+C109511,Type II diabetes mellitus with gangrene
+C109512,Type 2 diabetes mellitus with gangrene
+C109611,Type II diabetes mellitus with retinopathy
+C109612,Type 2 diabetes mellitus with retinopathy
+C109711,Type II diabetes mellitus - poor control
+C109712,Type 2 diabetes mellitus - poor control
+C109A11,Type II diabetes mellitus with mononeuropathy
+C109B11,Type II diabetes mellitus with polyneuropathy
+C109C11,Type II diabetes mellitus with nephropathy
+C109C12,Type 2 diabetes mellitus with nephropathy
+C109D11,Type II diabetes mellitus with hypoglycaemic coma
+C109D12,Type 2 diabetes mellitus with hypoglycaemic coma
+C109E11,Type II diabetes mellitus with diabetic cataract
+C109E12,Type 2 diabetes mellitus with diabetic cataract
+C109F11,Type II diabetes mellitus with peripheral angiopathy
+C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+C109G11,Type II diabetes mellitus with arthropathy
+C109G12,Type 2 diabetes mellitus with arthropathy
+C109H11,Type II diabetes mellitus with neuropathic arthropathy
+C109H12,Type 2 diabetes mellitus with neuropathic arthropathy
+C109J00,Insulin treated Type 2 diabetes mellitus
+C109J12,Insulin treated Type II diabetes mellitus
+C109K00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+C10E.00,Type 1 diabetes mellitus
+C10E000,Type 1 diabetes mellitus with renal complications
+C10E100,Type 1 diabetes mellitus with ophthalmic complications
+C10E.11,Type I diabetes mellitus
+C10E200,Type 1 diabetes mellitus with neurological complications
+C10E300,Type 1 diabetes mellitus with multiple complications
+C10E311,Type I diabetes mellitus with multiple complications
+C10E400,Unstable type 1 diabetes mellitus
+C10E411,Unstable type I diabetes mellitus
+C10E500,Type 1 diabetes mellitus with ulcer
+C10E511,Type I diabetes mellitus with ulcer
+C10E600,Type 1 diabetes mellitus with gangrene
+C10E700,Type 1 diabetes mellitus with retinopathy
+C10E711,Type I diabetes mellitus with retinopathy
+C10E800,Type 1 diabetes mellitus - poor control
+C10E900,Type 1 diabetes mellitus maturity onset
+C10E911,Type I diabetes mellitus maturity onset
+C10EA00,Type 1 diabetes mellitus without complication
+C10EA11,Type I diabetes mellitus without complication
+C10EB00,Type 1 diabetes mellitus with mononeuropathy
+C10EC00,Type 1 diabetes mellitus with polyneuropathy
+C10EC11,Type I diabetes mellitus with polyneuropathy
+C10ED00,Type 1 diabetes mellitus with nephropathy
+C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma
+C10EF00,Type 1 diabetes mellitus with diabetic cataract
+C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+C10EH00,Type 1 diabetes mellitus with arthropathy
+C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy
+C10EK00,Type 1 diabetes mellitus with persistent proteinuria
+C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria
+C10EM00,Type 1 diabetes mellitus with ketoacidosis
+C10EM11,Type I diabetes mellitus with ketoacidosis
+C10EN00,Type 1 diabetes mellitus with ketoacidotic coma
+C10EN11,Type I diabetes mellitus with ketoacidotic coma
+C10EP00,Type 1 diabetes mellitus with exudative maculopathy
+C10EP11,Type I diabetes mellitus with exudative maculopathy
+C10EQ00,Type 1 diabetes mellitus with gastroparesis
+C10F.00,Type 2 diabetes mellitus
+C10F000,Type 2 diabetes mellitus with renal complications
+C10F011,Type II diabetes mellitus with renal complications
+C10F100,Type 2 diabetes mellitus with ophthalmic complications
+C10F.11,Type II diabetes mellitus
+C10F200,Type 2 diabetes mellitus with neurological complications
+C10F211,Type II diabetes mellitus with neurological complications
+C10F300,Type 2 diabetes mellitus with multiple complications
+C10F311,Type II diabetes mellitus with multiple complications
+C10F400,Type 2 diabetes mellitus with ulcer
+C10F411,Type II diabetes mellitus with ulcer
+C10F500,Type 2 diabetes mellitus with gangrene
+C10F600,Type 2 diabetes mellitus with retinopathy
+C10F611,Type II diabetes mellitus with retinopathy
+C10F700,Type 2 diabetes mellitus - poor control
+C10F711,Type II diabetes mellitus - poor control
+C10F900,Type 2 diabetes mellitus without complication
+C10F911,Type II diabetes mellitus without complication
+C10FA00,Type 2 diabetes mellitus with mononeuropathy
+C10FA11,Type II diabetes mellitus with mononeuropathy
+C10FB00,Type 2 diabetes mellitus with polyneuropathy
+C10FB11,Type II diabetes mellitus with polyneuropathy
+C10FC00,Type 2 diabetes mellitus with nephropathy
+C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma
+C10FD11,Type II diabetes mellitus with hypoglycaemic coma
+C10FE00,Type 2 diabetes mellitus with diabetic cataract
+C10FE11,Type II diabetes mellitus with diabetic cataract
+C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+C10FG00,Type 2 diabetes mellitus with arthropathy
+C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy
+C10FJ00,Insulin treated Type 2 diabetes mellitus
+C10FJ11,Insulin treated Type II diabetes mellitus
+C10FK00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+C10FL00,Type 2 diabetes mellitus with persistent proteinuria
+C10FL11,Type II diabetes mellitus with persistent proteinuria
+C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria
+C10FM11,Type II diabetes mellitus with persistent microalbuminuria
+C10FN00,Type 2 diabetes mellitus with ketoacidosis
+C10FP00,Type 2 diabetes mellitus with ketoacidotic coma
+C10FQ00,Type 2 diabetes mellitus with exudative maculopathy
+C10FR00,Type 2 diabetes mellitus with gastroparesis
